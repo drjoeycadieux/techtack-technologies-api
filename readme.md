@@ -15,7 +15,7 @@
 - you choose one of those link
 - done!
 
-## How to code in javascript
+## How to code in json
 
 ```JSON
  {
